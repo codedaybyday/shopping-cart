@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <h1>shopping-cart</h1>
+    <h1>购物车</h1>
     <hr/>
     <ProductList/>
     <hr/>
